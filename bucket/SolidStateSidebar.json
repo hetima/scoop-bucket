@@ -1,0 +1,13 @@
+{
+    "version": "0.9.0",
+    "description": "A simple sidebar for Windows desktop that displays hardware diagnostic information.",
+    "homepage": "https://github.com/hetima/SolidStateSidebar",
+    "license": "GPL-3.0",
+    "url": "https://github.com/hetima/SolidStateSidebar/releases/download/v0.9.0/SolidStateSidebar-0.9.0-x64.zip",
+    "hash": "48f5954bf114068ea88513aa84bb22c72628e95957dd3baba5ffcf61fcc49544",
+    "bin": "SolidStateSidebar.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/hetima/SolidStateSidebar/releases/download/v$version/SolidStateSidebar-$version-x64.zip"
+    }
+}
