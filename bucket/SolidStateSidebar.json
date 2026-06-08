@@ -4,7 +4,7 @@
     "homepage": "https://github.com/hetima/SolidStateSidebar",
     "license": "GPL-3.0",
     "url": "https://github.com/hetima/SolidStateSidebar/releases/download/v0.9.5/SolidStateSidebar-0.9.5-x64.zip",
-    "hash": "48f5954bf114068ea88513aa84bb22c72628e95957dd3baba5ffcf61fcc49544",
+    "hash": "7d14c829080a5c7140466e0829099af65d5eca57669593607588f5f83a60b01d",
     "extract_dir": "SolidStateSidebar-0.9.5-x64",
     "bin": "SolidStateSidebar.exe",
     "checkver": {
