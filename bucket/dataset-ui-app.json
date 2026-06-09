@@ -1,0 +1,12 @@
+{
+    "version": "0.1.0",
+    "description": "An application for managing audio files.",
+    "homepage": "https://github.com/hetima/dataset-ui-app",
+    "license": "MIT",
+    "url": "https://github.com/hetima/dataset-ui-app/releases/download/v0.1.0/dataset-ui-app-0.1.0-x64.zip",
+    "hash": "f08514884d257f23ccbf80a5aee9613f622a95dea788b549e9da809b3555d635",
+    "bin": "dataset-ui-app.exe",
+    "checkver": {
+    "github": "hetima/dataset-ui-app"
+    }
+}
