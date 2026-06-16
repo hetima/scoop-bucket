@@ -8,5 +8,11 @@
     "bin": "TakeMePop.exe",
     "checkver": {
         "github": "hetima/TakeMePop"
-    }
+    },
+    "shortcuts": [
+        [
+        "TakeMePop.exe",
+        "TakeMePop"
+        ]
+    ]
 }

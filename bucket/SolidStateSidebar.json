@@ -9,5 +9,11 @@
     "bin": "SolidStateSidebar.exe",
     "checkver": {
     "github": "hetima/SolidStateSidebar"
-    }
+    },
+    "shortcuts": [
+        [
+        "SolidStateSidebar.exe",
+        "SolidStateSidebar"
+        ]
+    ]
 }
